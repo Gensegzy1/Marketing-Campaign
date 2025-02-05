@@ -3,9 +3,7 @@
 
 ### Introduction
 
-As part of the Excelerate Internship Program, our team worked on optimizing the Superhero U digital marketing campaign, which aimed to engage students, educators, and principals through Facebook ads. Our objective was to analyze 11 ad campaigns and determine which ones were cost-effective and which needed to be discontinued or optimized.
-
-To achieve this, we evaluated key digital marketing metrics, such as Cost Per Click (CPC), Cost Per Result (CPR), Reach, Impressions, and Unique Link Clicks (ULC). The findings helped us identify high-performing and underperforming campaigns, allowing for better budget allocation and future strategy improvements.
+The Superhero U project focused on analyzing the performance of Facebook ad campaigns to optimize marketing strategies and improve cost efficiency. This involved examining key metrics such as Cost Per Click (CPC), Cost Per Result (CPR), audience demographics, and regional performance to determine which campaigns were effective and which needed to be discontinued. The analysis revealed patterns in audience engagement, spending efficiency, and the impact of targeting specific demographics. By identifying underperforming campaigns and areas for improvement, the project provided valuable insights to refine marketing efforts, maximize reach, and allocate resources more effectively.
 
 ### Data Collection 
 The data was sourced from Excelerate platform, which provided detailed information on campaign performance. [Download Here](https://drive.google.com/file/d/1JQ1KKG-A8WMgHHHvkyP7zBFiToj2W5pA/view?usp=sharing)
