@@ -8,6 +8,14 @@ The Superhero U project focused on analyzing the performance of Facebook ad camp
 ### Data Collection 
 The data was sourced from Excelerate platform, which provided detailed information on campaign performance. [Download Here](https://drive.google.com/file/d/1JQ1KKG-A8WMgHHHvkyP7zBFiToj2W5pA/view?usp=sharing)
 
+### Project Objectives
+
+-Identify cost-efficient and high-performing ad campaigns.
+
+-Highlight campaigns with high costs and low engagement for discontinuation.
+
+-Provide actionable insights for budget reallocation and future campaign optimization.
+
 ### Key Metrics Evaluated
 To assess campaign performance, we focused on the following five key metrics, each providing valuable insight into the effectiveness and cost efficiency of the ads.
 #### 1. Cost Per Click (CPC) & Cost Per Result (CPR) – Evaluating Cost Efficiency
